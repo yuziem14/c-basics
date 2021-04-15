@@ -10,7 +10,6 @@
   - [**Introdução a Linguagem C**](./content/intro/c_lang.md)
 - [**Variáveis**](./content/variables/variables.md)
 - [**Operadores**](./content/operators/)
-  - [**Aritméticos**](./content/operators/arithmetic_operators)
-  - [**Atribuição**](./content/operators/attribution_operators)
-  - [**Relacionais**](./content/operators/relational_operators)
-
+  - [**Aritméticos**](./content/operators/arithmetic_operators.md)
+  - [**Atribuição**](./content/operators/attribution_operators.md)
+  - [**Relacionais**](./content/operators/relational_operators.md)

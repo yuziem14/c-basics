@@ -40,3 +40,4 @@ A ordem de precedência dos operadores relacionais é:
 
 1. `<`,  `>`, `<=`,  `>=`; Esquerda para direita.
 2. `==`, `!=`; Esquerda para direita.
+

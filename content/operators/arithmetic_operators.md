@@ -10,7 +10,7 @@ Os operadores aritméticos apenas podem ser usados com variáveis de tipo `int`,
 
 ## Operadores e exemplos
 
-Considere que exista as seguintes variaveis com os valores: `A = 20` e `B = 4`.
+Considere que exista as seguintes variáveis com os valores: `A = 20` e `B = 4`.
 
 Na tabela abaixo é mostrado o funcionamento dos operadores aritméticos:
 
@@ -26,9 +26,9 @@ Na tabela abaixo é mostrado o funcionamento dos operadores aritméticos:
 
 **:warning: Sobre os operadores de incremento e decremento: ** Há duas variações. O pré-fixado e o pós-fixado.
 
-- Pré-fixado: Primeiro incrementa ou decrementa e depois realização a atribuição. `A = ++B` teremos  `A = 5` e `B = 6`
+- Pré-fixado: Primeiro incrementa ou decrementa e depois realização a atribuição. `A = ++B` teremos  `A = 5` e `B = 5`
 
-- Pós-fixado: Primeiro realiza a atribuição e depois incrementa ou decrementa. `A = B++` teremos  `A = 6` e `B = 6`
+- Pós-fixado: Primeiro realiza a atribuição e depois incrementa ou decrementa. `A = B++` teremos  `A = 4` e `B = 5`
 
 ## Ordem de precedência
 

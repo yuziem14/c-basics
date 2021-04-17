@@ -13,3 +13,5 @@
   - [**Aritméticos**](./content/operators/arithmetic_operators.md)
   - [**Atribuição**](./content/operators/attribution_operators.md)
   - [**Relacionais**](./content/operators/relational_operators.md)
+- [**Exercícios**](./content/exercises/)
+  1. [**Variáveis, Entrada e Saída e Operadores**](./content/exercises/1_variables_es_operators.md)
